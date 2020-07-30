@@ -1,0 +1,8 @@
+com\challenge\healthcheck\rest\controller\FooController.class
+com\challenge\healthcheck\rest\controller\FooRepository.class
+com\challenge\healthcheck\rest\api\HelloService.class
+com\challenge\healthcheck\config\SecurityConfig.class
+com\challenge\healthcheck\config\ServletInitializer.class
+com\challenge\healthcheck\rest\bean\Book.class
+com\challenge\healthcheck\HealthcheckApplication.class
+com\challenge\healthcheck\rest\bean\Foo.class
