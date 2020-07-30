@@ -47,12 +47,12 @@ click on execute to run
 
 
 
-respone from  service
+response  from  service
 
 ![Alt text](/../master/src/main/resources/static/img/08.png?raw=true)
 
 
-message respone to line from line bot
+message response  to line from line bot
 
 ![Alt text](/../master/src/main/resources/static/img/09.png?raw=true)
 
